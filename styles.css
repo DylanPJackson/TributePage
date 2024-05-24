@@ -1,0 +1,49 @@
+h1 {
+	font-family: Monsterrat, sans-serif;
+	font-size: 4rem;
+	text-align: center;
+	background-color: #67bc60;
+	padding: 10px 0;
+}
+
+body {
+	background-color: #6fcc67;
+}
+
+#image {
+	max-width: 100%;
+  width: 50em;
+  height: auto;
+	margin: 0 auto;
+  display: block;
+}
+
+figure {
+	border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+	max-width: 50em; 
+  margin: auto;
+	border-radius: 5px;
+}
+
+figcaption {
+	background-color: rgba(255, 255, 255, .60);
+	padding: 3px;
+	font-family: Monsterrat, sans-serif;
+	text-align: center;
+}
+
+#tribute-info {
+	max-width: 50%;
+	text-align: center;
+	margin: 30px auto 0 auto;
+}
+
+footer {
+	font-size: .65em;
+	font-family: system-ui;
+	text-align: center;
+	margin-top: 50px;	
+}
